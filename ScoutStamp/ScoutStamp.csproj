@@ -10,8 +10,4 @@
     <PackageReference Include="MySql.EntityFrameworkCore" Version="9.0.6" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="wwwroot\img\" />
-  </ItemGroup>
-
 </Project>

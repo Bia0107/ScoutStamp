@@ -24,3 +24,15 @@ body {
 .bg-navy {
     background-color: #6595FD !important; /* Azul marinho escuro */
 }
+
+footer{
+    text-align: center;
+}
+
+.container{
+    align-items: center;
+}
+
+py-5{
+    padding-bottom: 20px;
+}

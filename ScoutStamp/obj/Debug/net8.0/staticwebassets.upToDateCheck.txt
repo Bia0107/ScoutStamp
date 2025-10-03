@@ -2,9 +2,15 @@ wwwroot\favicon.ico
 wwwroot\img\banner1.png
 wwwroot\img\banner2.png
 wwwroot\img\banner3.png
+wwwroot\img\barraca.jpg
+wwwroot\img\barrcaAzul.png
 wwwroot\img\caneca.png
+wwwroot\img\Canivete Melhor.jpg
+wwwroot\img\canivete.jfif
+wwwroot\img\corpo.jpg
 wwwroot\img\distintivo.png
 wwwroot\img\lenco.png
+wwwroot\img\Saco de dormir.webp
 wwwroot\img\sacochila.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
