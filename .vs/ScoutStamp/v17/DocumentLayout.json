@@ -1,26 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2ds\\Desktop\\projeto\\",
+  "WorkspaceRootPath": "C:\\Users\\Bia\\OneDrive\\Desktop\\ScoutStamp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|c:\\users\\2ds\\desktop\\projeto\\scoutstamp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|c:\\users\\bia\\onedrive\\desktop\\scoutstamp\\scoutstamp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|solutionrelative:scoutstamp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|c:\\users\\2ds\\desktop\\projeto\\scoutstamp\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|solutionrelative:scoutstamp\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|c:\\users\\2ds\\desktop\\projeto\\scoutstamp\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|solutionrelative:scoutstamp\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|c:\\users\\2ds\\desktop\\projeto\\scoutstamp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|c:\\users\\bia\\onedrive\\desktop\\scoutstamp\\scoutstamp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|solutionrelative:scoutstamp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|c:\\users\\2ds\\desktop\\projeto\\scoutstamp\\views\\produto\\produto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|solutionrelative:scoutstamp\\views\\produto\\produto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|c:\\users\\bia\\onedrive\\desktop\\scoutstamp\\scoutstamp\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|solutionrelative:scoutstamp\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|c:\\users\\bia\\onedrive\\desktop\\scoutstamp\\scoutstamp\\views\\produto\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|solutionrelative:scoutstamp\\views\\produto\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +26,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Produto.cshtml",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\projeto\\ScoutStamp\\Views\\Produto\\Produto.cshtml",
-              "RelativeDocumentMoniker": "ScoutStamp\\Views\\Produto\\Produto.cshtml",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\projeto\\ScoutStamp\\Views\\Produto\\Produto.cshtml",
-              "RelativeToolTip": "ScoutStamp\\Views\\Produto\\Produto.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ScoutStamp\\ScoutStamp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ScoutStamp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ScoutStamp\\ScoutStamp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ScoutStamp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACAAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-08T13:19:06.726Z",
+              "WhenOpened": "2025-10-08T18:32:26.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ScoutStamp\\ScoutStamp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ScoutStamp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ScoutStamp\\ScoutStamp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ScoutStamp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T18:30:54.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ProdutoController.cs",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\projeto\\ScoutStamp\\Controllers\\ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ScoutStamp\\ScoutStamp\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "ScoutStamp\\Controllers\\ProdutoController.cs",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\projeto\\ScoutStamp\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ScoutStamp\\ScoutStamp\\Controllers\\ProdutoController.cs",
               "RelativeToolTip": "ScoutStamp\\Controllers\\ProdutoController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAYAAAAvAAAAAAAAAA==",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA/wCAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T13:18:08.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\projeto\\ScoutStamp\\Models\\Produto.cs",
-              "RelativeDocumentMoniker": "ScoutStamp\\Models\\Produto.cs",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\projeto\\ScoutStamp\\Models\\Produto.cs",
-              "RelativeToolTip": "ScoutStamp\\Models\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T13:06:05.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\projeto\\ScoutStamp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ScoutStamp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\projeto\\ScoutStamp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ScoutStamp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-27T19:00:09.11Z",
+              "WhenOpened": "2025-10-08T18:30:04.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\projeto\\ScoutStamp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ScoutStamp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\projeto\\ScoutStamp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ScoutStamp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Title": "Cadastrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ScoutStamp\\ScoutStamp\\Views\\Produto\\Cadastrar.cshtml",
+              "RelativeDocumentMoniker": "ScoutStamp\\Views\\Produto\\Cadastrar.cshtml",
+              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ScoutStamp\\ScoutStamp\\Views\\Produto\\Cadastrar.cshtml",
+              "RelativeToolTip": "ScoutStamp\\Views\\Produto\\Cadastrar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-27T18:19:02.871Z",
+              "WhenOpened": "2025-10-08T18:28:08.214Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 88,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }
