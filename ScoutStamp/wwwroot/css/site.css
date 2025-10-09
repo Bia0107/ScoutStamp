@@ -20,6 +20,7 @@ html {
 
 body {
   margin-bottom: 60px;
+
 }
 
 .bg-navy {
@@ -34,6 +35,6 @@ footer{
     align-items: center;
 }
 
-py-5{
-    padding-bottom: 20px;
+py-5 {
+    padding-bottom: 10px;
 }
