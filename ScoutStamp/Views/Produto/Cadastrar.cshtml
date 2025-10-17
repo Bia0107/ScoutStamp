@@ -4,35 +4,70 @@
     ViewData["Title"] = "Cadastrar";
 }
 
-<h1>Cadastrar</h1>
+<style>
+    .container-centralizado {
+        display: flex;
+        justify-content: center; /* horizontal */
+        align-items: center; /* vertical */
+        height: 50vh; /* altura total da viewport */    
+    }
 
-<h4>Produto</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Cadastrar">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="Prodid" class="control-label"></label>
-                <input asp-for="Prodid" class="form-control" />
-                <span asp-validation-for="Prodid" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Prodnome" class="control-label"></label>
-                <input asp-for="Prodnome" class="form-control" />
-                <span asp-validation-for="Prodnome" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Proddescr" class="control-label"></label>
-                <input asp-for="Proddescr" class="form-control" />
-                <span asp-validation-for="Proddescr" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Enviar" class="btn btn-primary" />
-            </div>
-        </form>
+    .formulario {
+        background-color: #4169E1;
+        padding: 20px;
+        border-radius: 8px;
+        color: black;
+        width: 350px;
+        box-sizing: border-box;
+        text-align: center;
+    }
+
+    /* Centralizar o botão e dar espaçamento */
+    .btn-enviar {
+        display: block;
+        margin: 20px auto 0 auto; /* topo 20px, horizontal auto para centralizar */
+    }
+
+    /* Centralizar títulos */
+    h1, h4 {
+        text-align: center;
+        font-weight: bold;
+        margin: 0 0 10px 0;
+    }
+</style>
+
+<div class="container-centralizado">
+    <div>
+        <h1>Cadastrar</h1>
+        <h4>Produto</h4>
+        <hr />
+        <div class="formulario">
+            <form asp-action="Cadastrar">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Prodid" class="control-label"></label>
+                    <input asp-for="Prodid" class="form-control" />
+                    <span asp-validation-for="Prodid" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Prodnome" class="control-label"></label>
+                    <input asp-for="Prodnome" class="form-control" />
+                    <span asp-validation-for="Prodnome" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Proddescr" class="control-label"></label>
+                    <input asp-for="Proddescr" class="form-control" />
+                    <span asp-validation-for="Proddescr" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Enviar" class="btn btn-light btn-enviar" />
+                </div>
+            </form>
+        </div>
     </div>
 </div>
+
+
 
 <div>
     <a asp-action="Index">Back to List</a>
