@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UK2eQ4sFzW0=",
+  "dgSpecHash": "OfD4+OaVI1M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\2ds\\Documents\\ScoutStamp\\ScoutStamp\\ScoutStamp.csproj",
+  "projectFilePath": "C:\\Users\\2ds\\Desktop\\ScoutStamp\\ScoutStamp\\ScoutStamp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2ds\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\2ds\\.nuget\\packages\\google.protobuf\\3.30.0\\google.protobuf.3.30.0.nupkg.sha512",
