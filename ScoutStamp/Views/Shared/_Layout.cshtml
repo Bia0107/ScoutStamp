@@ -10,7 +10,7 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-navy border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-navy border-bottom box-shadow mb-2">
             <div class="container-fluid">
                 <a class="navbar-brand fw-bold m-2 p-2" asp-area="" asp-controller="Home" asp-action="Index">ScoutStamp</a>
 
@@ -25,7 +25,7 @@
                             <a class="nav-link text-dark fw-bold" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark fw-bold" asp-area="" asp-controller="Produto" asp-action="Cadastrar">Cadastrar</a>
+                            <a class="nav-link text-dark fw-bold" asp-area="" asp-controller="Produto" asp-action="Cadastrar">Produtos</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark fw-bold" asp-area="" asp-controller="Cliente" asp-action="Cliente">Clientes</a>
@@ -40,7 +40,7 @@
 
                     <!-- Botão de Login alinhado à direita -->
                     <div class="ms-auto">
-                        <a class="btn btn-light fw-bold pl" asp-area="" asp-controller="Account" asp-action="Login">Login</a>
+                        <a class="btn btn-light fw-bold m-3" asp-area="" asp-controller="Account" asp-action="Login">Login</a>
                     </div>
 
                 </div>
@@ -63,7 +63,7 @@
 
     <footer class="border-top footer text-muted bg-navy fw-bold" style="margin-top: 50px">
         <div class="container">
-            &copy; 2025 - ScoutStamp - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2025 - ScoutStamp
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

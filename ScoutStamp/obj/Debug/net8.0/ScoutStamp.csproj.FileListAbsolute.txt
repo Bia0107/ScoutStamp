@@ -446,7 +446,6 @@ C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\bin\Debug\net8.0\System.Comp
 C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\bin\Debug\net8.0\System.Composition.TypedParts.dll
 C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\bin\Debug\net8.0\System.Formats.Asn1.dll
 C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\bin\Debug\net8.0\System.IO.Pipelines.dll
 C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
 C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
@@ -612,11 +611,6 @@ C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\obj\Debug\net8.0\ScoutStamp.
 C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\obj\Debug\net8.0\ScoutStamp.sourcelink.json
 C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\obj\Debug\net8.0\staticwebassets\msbuild.ScoutStamp.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\obj\Debug\net8.0\staticwebassets\msbuild.build.ScoutStamp.props
-C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ScoutStamp.props
-C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ScoutStamp.props
-C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\obj\Debug\net8.0\scopedcss\bundle\ScoutStamp.styles.css
 C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\obj\Debug\net8.0\scopedcss\projectbundle\ScoutStamp.bundle.scp.css
@@ -1059,3 +1053,11 @@ C:\Users\2ds\Desktop\ScoutStamp\ScoutStamp\bin\Debug\net8.0\ru\Microsoft.CodeAna
 C:\Users\2ds\Desktop\ScoutStamp\ScoutStamp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\2ds\Desktop\ScoutStamp\ScoutStamp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\2ds\Desktop\ScoutStamp\ScoutStamp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\bin\Debug\net8.0\ScoutStamp.staticwebassets.endpoints.json
+C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Bia\OneDrive\Desktop\ScoutStamp\ScoutStamp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

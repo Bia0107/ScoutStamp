@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScoutStamp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ca11dfb28d0fcca277f17142020f3b6e7c4b42a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+619cf87a813b5ad82f3713e507dc48c4eef48d4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScoutStamp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScoutStamp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
