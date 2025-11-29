@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ScoutStamp",
+    "\\ScoutStamp\\Controllers",
+    "\\ScoutStamp\\Models"
   ],
+  "SelectedNode": "\\ScoutStamp\\Models\\Produto.cs",
   "PreviewInSolutionExplorer": false
 }

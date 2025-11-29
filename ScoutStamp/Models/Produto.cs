@@ -5,10 +5,18 @@ namespace ScoutStamp.Models
     public class Produto
     {
         [Display(Name = "Código do Produto")]
-        public int Prodid { get; set; }
+        public int IdProduto { get; set; }
+
         [Display(Name = "Nome do Produto")]
-        public string? Prodnome { get; set; }
+        public string? Nome { get; set; }
+
         [Display(Name = "Descrição do Produto")]
-        public string? Proddescr { get; set; }
+        public double? ValorUnid { get; set; }
+        
+        [Display(Name = "Quantidade em Estoque")]
+        public double? QtdEstoque { get; set; }
+
+        [Display(Name = "Código do Fornecedor")]
+        public int IdFornecedor { get; set; }
     }
 }

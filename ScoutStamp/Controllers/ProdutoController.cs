@@ -23,10 +23,13 @@ namespace ScoutStamp.Controllers
             using var connection = new MySqlConnection(connectionString);
             connection.Open();
 
-            string sql = "INSERT INTO produto (Prodnome,Proddescr) VALUES (@Prodnome, @Proddescr)";
+            string sql = "INSERT INTO tbProduto (IdProduto,Nome,ValorInid,QtdEstoque,IdFornecedor) VALUES (@IdProduto,@Nome,@ValorInid,@QtdEstoque,@IdFornecedor)";
             MySqlCommand command = new MySqlCommand(sql, connection);
-            command.Parameters.AddWithValue("@Prodnome", produto.Prodnome);
-            command.Parameters.AddWithValue("@Proddescr", produto.Proddescr);
+            command.Parameters.AddWithValue("@IdProduto", produto.IdProduto);
+            command.Parameters.AddWithValue("@Nome", produto.Nome);
+            command.Parameters.AddWithValue("@ValorUnid", produto.ValorUnid);
+            command.Parameters.AddWithValue("@QtdEstoque", produto.QtdEstoque);
+            command.Parameters.AddWithValue("@IdFornecedor", produto.IdFornecedor);
             command.ExecuteNonQuery();
 
             return RedirectToAction("Index", "Home");
