@@ -1,0 +1,155 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@ViewData["Title"]</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"/>
+</head>
+<body>
+    <!-- Banner / Carrossel -->
+    <div id="carouselExample" class="carousel slide mt-3">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="./img/banner1.png" class="d-block w-100" alt="Destaque 1">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Equipamentos Escoteiros</h5>
+                    <p>Os melhores produtos para a sua tropa.</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="./img/banner2.png" class="d-block w-100" alt="Destaque 2">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Conforto e Tradição</h5>
+                    <p>Produtos oficiais e de qualidade.</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="./img/banner3.png" class="d-block w-100" alt="Destaque 3">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Aventura Garantida</h5>
+                    <p>Tudo o que você precisa para acampar.</p>
+                </div>
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+            <span class="carousel-control-next-icon"></span>
+        </button>
+    </div>
+
+    <!-- Produtos em Destaque -->
+    <section class="py-5">
+        <div class="container">
+            <h2 class="text-center mb-4">Produtos em Destaque</h2>
+            <div class="row g-4">
+                <!-- Card Produto -->
+                <div class="col-md-3">
+                    <div class="card h-100 shadow-sm">
+                        <img src="./img/lenco.png" class="card-img-top" alt="Lenço Escoteiro">
+                        <div class="card-body">
+                            <h5 class="card-title">Lenço Escoteiro</h5>
+                            <p class="card-text">Tradição escoteira em cada detalhe.</p>
+                            <a href="#" class="btn btn-primary">Comprar</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Card Produto -->
+                <div class="col-md-3">
+                    <div class="card h-100 shadow-sm">
+                        <img src="./img/distintivo.png" class="card-img-top" alt="Distintivo">
+                        <div class="card-body">
+                            <h5 class="card-title">Distintivo</h5>
+                            <p class="card-text">Mostre suas conquistas com orgulho.</p>
+                            <a href="#" class="btn btn-primary">Comprar</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Card Produto -->
+                <div class="col-md-3">
+                    <div class="card h-100 shadow-sm">
+                        <img src="./img/caneca.png" class="card-img-top" alt="Caneca Escoteira">
+                        <div class="card-body">
+                            <h5 class="card-title">Caneca Escoteira</h5>
+                            <p class="card-text">Ideal para o acampamento.</p>
+                            <a href="#" class="btn btn-primary">Comprar</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Card Produto -->
+                <div class="col-md-3">
+                    <div class="card h-100 shadow-sm">
+                        <img src="./img/sacochila.png" class="card-img-top" alt="Sacochila">
+                        <div class="card-body">
+                            <h5 class="card-title">Sacochila</h5>
+                            <p class="card-text">Praticidade para suas aventuras.</p>
+                            <a href="#" class="btn btn-primary">Comprar</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="py-5">
+        <div class="container">
+            <h2 class="text-center mb-4">Outras Ofertas</h2>
+            <div class="row g-4">
+                <!-- Card Produto -->
+                <div class="col-md-3">
+                    <div class="card h-100 shadow-sm">
+                        <img src="./img/Canivete Melhor.jpg" class="card-img-top" alt="canivete">
+                        <div class="card-body">
+                            <h5 class="card-title">Canivete Suiço</h5>
+                            <p class="card-text">Um canivete que possui 14 ferramentas</p>
+                            <a href="#" class="btn btn-primary">Comprar</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Card Produto -->
+                <div class="col-md-3">
+                    <div class="card h-100 shadow-sm">
+                        <img src="./img/corpo.jpg" class="card-img-top" alt="corda">
+                        <div class="card-body">
+                            <h5 class="card-title">Corda de escoteiro</h5>
+                            <p class="card-text">Corda de 16 metros</p>
+                            <a href="#" class="btn btn-primary">Comprar</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Card Produto -->
+                <div class="col-md-3">
+                    <div class="card h-100 shadow-sm">
+                        <img src="./img/Saco de dormir.webp" class="card-img-top" alt="SacoDormir">
+                        <div class="card-body">
+                            <h5 class="card-title">Saco de Dormir</h5>
+                            <p class="card-text">Ideal para o acampamento.</p>
+                            <a href="#" class="btn btn-primary">Comprar</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Card Produto -->
+                <div class="col-md-3">
+                    <div class="card h-100 shadow-sm">
+                        <img src="./img/barrcaAzul.png" class="card-img-top" alt="Barraca">
+                        <div class="card-body">
+                            <h5 class="card-title">Barraca</h5>
+                            <p class="card-text">Uma barraca com capacidade de 10 pessoas.</p>
+                            <a href="#" class="btn btn-primary">Comprar</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2ds\\Downloads\\ScoutStamp-main\\ScoutStamp-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|c:\\users\\2ds\\downloads\\scoutstamp-main\\scoutstamp-main\\scoutstamp\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|solutionrelative:scoutstamp\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|c:\\users\\2ds\\downloads\\scoutstamp-main\\scoutstamp-main\\scoutstamp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|solutionrelative:scoutstamp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|c:\\users\\2ds\\downloads\\scoutstamp-main\\scoutstamp-main\\scoutstamp\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|solutionrelative:scoutstamp\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|c:\\users\\2ds\\downloads\\scoutstamp-main\\scoutstamp-main\\scoutstamp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|solutionrelative:scoutstamp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|c:\\users\\2ds\\downloads\\scoutstamp-main\\scoutstamp-main\\scoutstamp\\views\\cliente\\cliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|solutionrelative:scoutstamp\\views\\cliente\\cliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|c:\\users\\2ds\\downloads\\scoutstamp-main\\scoutstamp-main\\scoutstamp\\views\\fornecedor\\fornecedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|solutionrelative:scoutstamp\\views\\fornecedor\\fornecedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|c:\\users\\2ds\\downloads\\scoutstamp-main\\scoutstamp-main\\scoutstamp\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|solutionrelative:scoutstamp\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|c:\\users\\2ds\\downloads\\scoutstamp-main\\scoutstamp-main\\scoutstamp\\views\\produto\\produto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|solutionrelative:scoutstamp\\views\\produto\\produto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|c:\\users\\2ds\\downloads\\scoutstamp-main\\scoutstamp-main\\scoutstamp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|solutionrelative:scoutstamp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|c:\\users\\2ds\\downloads\\scoutstamp-main\\scoutstamp-main\\scoutstamp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D4890-889B-4695-B826-2B49A677C023}|ScoutStamp\\ScoutStamp.csproj|solutionrelative:scoutstamp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\2ds\\Downloads\\ScoutStamp-main\\ScoutStamp-main\\ScoutStamp\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ScoutStamp\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\2ds\\Downloads\\ScoutStamp-main\\ScoutStamp-main\\ScoutStamp\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ScoutStamp\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T22:38:53.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\2ds\\Downloads\\ScoutStamp-main\\ScoutStamp-main\\ScoutStamp\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "ScoutStamp\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\2ds\\Downloads\\ScoutStamp-main\\ScoutStamp-main\\ScoutStamp\\Models\\Login.cs*",
+              "RelativeToolTip": "ScoutStamp\\Models\\Login.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T22:37:19.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Downloads\\ScoutStamp-main\\ScoutStamp-main\\ScoutStamp\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "ScoutStamp\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Downloads\\ScoutStamp-main\\ScoutStamp-main\\ScoutStamp\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "ScoutStamp\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T22:33:27.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Downloads\\ScoutStamp-main\\ScoutStamp-main\\ScoutStamp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ScoutStamp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Downloads\\ScoutStamp-main\\ScoutStamp-main\\ScoutStamp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ScoutStamp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T21:16:56.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\2ds\\Downloads\\ScoutStamp-main\\ScoutStamp-main\\ScoutStamp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ScoutStamp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\2ds\\Downloads\\ScoutStamp-main\\ScoutStamp-main\\ScoutStamp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ScoutStamp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T21:15:20.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\2ds\\Downloads\\ScoutStamp-main\\ScoutStamp-main\\ScoutStamp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ScoutStamp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\2ds\\Downloads\\ScoutStamp-main\\ScoutStamp-main\\ScoutStamp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ScoutStamp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-04T21:14:02.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Produto.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Downloads\\ScoutStamp-main\\ScoutStamp-main\\ScoutStamp\\Views\\Produto\\Produto.cshtml",
+              "RelativeDocumentMoniker": "ScoutStamp\\Views\\Produto\\Produto.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Downloads\\ScoutStamp-main\\ScoutStamp-main\\ScoutStamp\\Views\\Produto\\Produto.cshtml",
+              "RelativeToolTip": "ScoutStamp\\Views\\Produto\\Produto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T21:13:32.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\2ds\\Downloads\\ScoutStamp-main\\ScoutStamp-main\\ScoutStamp\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "ScoutStamp\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\2ds\\Downloads\\ScoutStamp-main\\ScoutStamp-main\\ScoutStamp\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "ScoutStamp\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T21:12:29.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fornecedor.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Downloads\\ScoutStamp-main\\ScoutStamp-main\\ScoutStamp\\Views\\Fornecedor\\Fornecedor.cshtml",
+              "RelativeDocumentMoniker": "ScoutStamp\\Views\\Fornecedor\\Fornecedor.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Downloads\\ScoutStamp-main\\ScoutStamp-main\\ScoutStamp\\Views\\Fornecedor\\Fornecedor.cshtml",
+              "RelativeToolTip": "ScoutStamp\\Views\\Fornecedor\\Fornecedor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T21:10:59.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Downloads\\ScoutStamp-main\\ScoutStamp-main\\ScoutStamp\\Views\\Cliente\\Cliente.cshtml",
+              "RelativeDocumentMoniker": "ScoutStamp\\Views\\Cliente\\Cliente.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Downloads\\ScoutStamp-main\\ScoutStamp-main\\ScoutStamp\\Views\\Cliente\\Cliente.cshtml",
+              "RelativeToolTip": "ScoutStamp\\Views\\Cliente\\Cliente.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T21:04:51.35Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 88,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

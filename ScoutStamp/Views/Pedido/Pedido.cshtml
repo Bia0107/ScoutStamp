@@ -1,0 +1,59 @@
+﻿@model ScoutStamp.Models.Pedido
+
+@{
+    ViewData["Title"] = "Pedido";
+}
+
+<h1>Cadastrar</h1>
+
+<h4>Pedidos</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Pedido">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="IdPedido" class="control-label"></label>
+                <input asp-for="IdPedido" class="form-control" />
+                <span asp-validation-for="IdPedido" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DataPedido" class="control-label"></label>
+                <input asp-for="DataPedido" class="form-control" />
+                <span asp-validation-for="DataPedido" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Produto" class="control-label"></label>
+                <input asp-for="Produto" class="form-control" />
+                <span asp-validation-for="Produto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ValorTotal" class="control-label"></label>
+                <input asp-for="ValorTotal" class="form-control" />
+                <span asp-validation-for="ValorTotal" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StatusPedido" class="control-label"></label>
+                <input asp-for="StatusPedido" class="form-control" />
+                <span asp-validation-for="StatusPedido" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdCliente" class="control-label"></label>
+                <input asp-for="IdCliente" class="form-control" />
+                <span asp-validation-for="IdCliente" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdEndereco" class="control-label"></label>
+                <input asp-for="IdEndereco" class="form-control" />
+                <span asp-validation-for="IdEndereco" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,60 @@
+html {
+  font-size: 14px;
+}
+
+
+@media (min-width: 768px) {
+    html {
+    font-size: 16px;
+
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.bg-navy {
+    background-color: #4169E1;
+}
+
+footer{
+    text-align: center;
+}
+
+.container{
+    align-items: center;
+}
+
+py-5 {
+    padding-bottom: 10px;
+}
+
+h1, h4{
+    text-align: center;
+}
+
+.row .col-md-4{
+    margin: 0 auto; /* Centraliza a coluna */
+    background: #f8f9fa; /* Fundo suave */
+    padding: 25px; /* Espaçamento interno */
+    border-radius: 10px; /* Bordas arredondadas */
+    box-shadow: 0 0 10px rgba(0,0,0,0.15); /* Sombra leve */
+}
+
+.form-group {
+    margin-bottom: 18px; /* Espaço entre os campos */
+}
+
+.btn-primary {
+    width: 100%; /* Deixa o botão maior e centralizado */
+}
